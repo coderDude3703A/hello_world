@@ -1,2 +1,3 @@
-# hello_world
-This is a trial!
+HI HUMAN!
+
+This is me PROGRAMMINGTEEN, I like python and c++ :)
